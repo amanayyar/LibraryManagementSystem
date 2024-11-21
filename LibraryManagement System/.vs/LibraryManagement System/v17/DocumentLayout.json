@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Learnings\\dotnettutorials-projects\\LibraryManagementSystem\\LibraryManagement System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A814F956-357F-44C9-846D-7A62C1D27C6E}|LibraryManagement System\\LibraryManagement System.csproj|e:\\learnings\\dotnettutorials-projects\\librarymanagementsystem\\librarymanagement system\\librarymanagement system\\models\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A814F956-357F-44C9-846D-7A62C1D27C6E}|LibraryManagement System\\LibraryManagement System.csproj|solutionrelative:librarymanagement system\\models\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A814F956-357F-44C9-846D-7A62C1D27C6E}|LibraryManagement System\\LibraryManagement System.csproj|e:\\learnings\\dotnettutorials-projects\\librarymanagementsystem\\librarymanagement system\\librarymanagement system\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A814F956-357F-44C9-846D-7A62C1D27C6E}|LibraryManagement System\\LibraryManagement System.csproj|solutionrelative:librarymanagement system\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BorrowRecord.cs",
+              "DocumentMoniker": "E:\\Learnings\\dotnettutorials-projects\\LibraryManagementSystem\\LibraryManagement System\\LibraryManagement System\\Models\\BorrowRecord.cs",
+              "RelativeDocumentMoniker": "LibraryManagement System\\Models\\BorrowRecord.cs",
+              "ToolTip": "E:\\Learnings\\dotnettutorials-projects\\LibraryManagementSystem\\LibraryManagement System\\LibraryManagement System\\Models\\BorrowRecord.cs",
+              "RelativeToolTip": "LibraryManagement System\\Models\\BorrowRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:06:52.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\Learnings\\dotnettutorials-projects\\LibraryManagementSystem\\LibraryManagement System\\LibraryManagement System\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagement System\\Models\\Book.cs",
+              "ToolTip": "E:\\Learnings\\dotnettutorials-projects\\LibraryManagementSystem\\LibraryManagement System\\LibraryManagement System\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryManagement System\\Models\\Book.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:00:53.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
